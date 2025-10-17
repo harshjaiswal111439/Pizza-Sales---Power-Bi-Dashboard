@@ -26,7 +26,6 @@ The dataset includes transactional pizza sales data with the following fields:
 - Quantity  
 - Total revenue per order
 
-(*Adjust source details based on your dataset*)
 
 ---
 
